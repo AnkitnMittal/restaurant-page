@@ -1,5 +1,5 @@
 const content = document.getElementById("content");
 
 export default function loadMenu() {
-    ontent.classList.add("page-menu");
+    content.classList.add("page-menu");
 }
